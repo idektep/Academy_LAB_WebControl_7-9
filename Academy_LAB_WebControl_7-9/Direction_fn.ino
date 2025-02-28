@@ -1,11 +1,12 @@
 #define MR_IN1 12 //backright motor
 #define MR_IN2 13 //backright motor
-#define MR_IN3 33 //frontright motor
-#define MR_IN4 32 //frontright motor
+#define MR_IN3 32 //frontright motor
+#define MR_IN4 33 //frontright motor
+
+#define ML_IN1 27 //frontleft motor
+#define ML_IN2 14 //frontleft motor
 #define ML_IN3 25 //backleft motor
 #define ML_IN4 26 //backleft motor
-#define ML_IN1 14 //frontleft motor
-#define ML_IN2 27 //frontleft motor
 
 #define BR_ENA 15  //Pin speed backright motor
 #define FR_ENB 2   //Pin speed frontright motor
